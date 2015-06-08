@@ -7,7 +7,7 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use onebone\economyapi\EconomyAPI;
 use pocketmine\utils\Config;
-
+use pocketmine\item\Item;
 
 
 class NewPlugin extends listner{
@@ -49,7 +49,6 @@ else{
 else{
    
 }
-
 
 
 
