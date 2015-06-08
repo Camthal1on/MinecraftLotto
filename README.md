@@ -1,2 +1,2 @@
-# php
-idk
+# MinecraftLotto
+Minecraft lotto using EconomyAPI
